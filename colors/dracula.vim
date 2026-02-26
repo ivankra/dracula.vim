@@ -1024,7 +1024,6 @@ if has('nvim')
   " }}}
 
   " nvim-tree/nvim-tree.lua {{{
-  hi! NvimTreeSpecialFile gui=bold,underline
   hi! link NvimTreeEmptyFolderName DraculaPurple
   hi! link NvimTreeExecFile DraculaGreen
   hi! link NvimTreeFolderIcon DraculaPurple
